@@ -1,0 +1,2 @@
+# pupbench
+puppet-training
